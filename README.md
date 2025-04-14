@@ -27,5 +27,6 @@ I’m an **undergraduate student** studying **Artificial Intelligence and Data S
 - 📩: [kathiravansankaran2004@gmail.com](mailto:kathiravansankaran2004@gmail.com)  
 - <img src="https://github.com/user-attachments/assets/ddf24476-7d2f-4c54-b945-c7d1a94fab99" width="18"/> : [LinkedIn](https://www.linkedin.com/in/kathiravan28/)  
 - <img src="https://github.com/user-attachments/assets/c0630b44-06c3-4343-8580-21c7fc36e1d5" width="18"/> : [LeetCode ](https://leetcode.com/u/Kathiravan_S/)  
-- <img src="https://github.com/user-attachments/assets/654a9833-1820-40e9-b1ec-d840229a4890" width="18"/>: [GitHub](https://github.com/S-Kathiravan)
+- <img src="https://github.com/user-attachments/assets/24f687f3-7fd1-4641-b57c-d7822735392c" width="18"/>: [GitHub](https://github.com/S-Kathiravan)
+
 
