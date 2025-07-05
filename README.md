@@ -12,15 +12,6 @@ I’m an **undergraduate student** studying **Artificial Intelligence and Data S
 
 ---
 
-## 🎯 Projects
-
-### 1. **[Benchmarking LLMs for Fraud Detection](https://github.com/S-Kathiravan/Benchmarking-LLMs-Fraud-Detection)**
-🔍 Evaluating the performance of large language models (LLMs) for detecting fraud in transactional and communication data. This project helps in benchmarking models and understanding their efficiency in detecting fraudulent activities.
-
-### 2. **[Plant Species Classification using ResNet50](https://github.com/S-Kathiravan/Plant-Species-Classification-ResNet50)**
-🌱 Used **ResNet50** with **transfer learning** to classify plant species. The model was fine-tuned on a dataset, showcasing the application of deep learning in solving real-world classification problems.
-
----
 
 ### ♾️ Let's Connect!
 
